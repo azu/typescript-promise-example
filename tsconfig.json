@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "umd",
+    "sourceMap": true,
+    "outDir": "lib"
+  },
+  "files": [
+    "types/es6-promise.d.ts",
+    "src/index.ts",
+    "src/Request.ts"
+  ]
+}
